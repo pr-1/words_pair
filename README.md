@@ -1,16 +1,8 @@
 # words_pair
 
-A new Flutter project.
+Flutter introduction workshop for DSC Portsburgh.
 
 ## Getting Started
+Slides - https://docs.google.com/presentation/d/1Ba-MwStgTpaSeN4REt7Z-o5UmW9SF_kfZvG92WhNPJM/edit?usp=sharing
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Video - https://www.youtube.com/watch?v=mSkeH4uzfdM
